@@ -1,1 +1,3 @@
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=infohakhak)]([https://github.com/KnlnKS](https://github.com/kseriakov/leetcode-stats)
+### Leetcode stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/infohakhak)](https://leetcode.com/infohakhak)
