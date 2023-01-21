@@ -1,6 +1,7 @@
 ### Hi, I'm Konstantin Seriakov - Python backend developer
 
 
+
 ### Github Stats:
 
 <a href="https://github.com/kseriakov">
@@ -16,7 +17,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kseriakov)](https://leetcode.com/kseriakov)
 
 
+
 ### Contacts:
 * [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/werryf)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antongalich)
 * [![email](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](infohakhak@gmail.com)
