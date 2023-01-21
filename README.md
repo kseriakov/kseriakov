@@ -2,7 +2,7 @@
 
 
 
-### Github Stats:
+### Github stats:
 
 <a href="https://github.com/kseriakov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseriakov&theme=light&hide_langs_below=1" />
