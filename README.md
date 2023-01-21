@@ -2,4 +2,4 @@
 
 ### Leetcode stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/infohakhak)](https://leetcode.com/infohakhak)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kseriakov)](https://leetcode.com/kseriakov)
