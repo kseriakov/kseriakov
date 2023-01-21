@@ -1,11 +1,15 @@
 ### Hi, I'm Konstantin Seriakov - Python backend developer
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseriakov&show_icons=true)](https://github.com/kseriakov/github-readme-stats)
+### Github Stats:
 
+<a href="https://github.com/kseriakov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseriakov&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/kseriakov">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kseriakov&show_icons=true&theme=light&line_height=27" alt="Konstantin's github stats"/>
+</a>
 
-![](https://github.com/kseriakov/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/kseriakov/github-stats/blob/master/generated/languages.svg)
 
 ### Leetcode stats
 
