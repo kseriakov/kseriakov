@@ -19,5 +19,5 @@
 
 
 ### Contacts:
-* [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/ksrsrs)
+* [![Telegramm](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/konstant1ns)
 * [![Email](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](infohakhak@gmail.com)
